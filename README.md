@@ -1,6 +1,3 @@
-# dynamic-programming-memoization-can-construct
-dynamic-programming-memoization-can-construct
-
 # Dynamic Programming Memoization "Can Construct"
 
 The function ‘canConstruct(target, wordBank, memo)‘ that takes in a
